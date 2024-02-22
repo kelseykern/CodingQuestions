@@ -1,0 +1,1 @@
+## These questions are from the metacareers.com "Preparation Hub" for "Data Engineer" (2024)
