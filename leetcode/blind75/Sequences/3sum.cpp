@@ -1,4 +1,9 @@
-    vector<vector<int>> threeSum(vector<int>& nums) {
+// NOTE: this function and video has the (target > sum) logic flipped, it should be
+// (target < sum) ==>  end--
+// (target > sum) ==> start++;
+
+
+vector<vector<int>> threeSum(vector<int>& nums) {
        vector<vector<int>> triplets;
 
        // sort array, we only need to return values not indexes
